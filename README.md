@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact: a Sperm Whale is the loudest animal on the planet, it can talk to other whales over 1000 miles away
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Software Engineer trying to make a difference for tomorrow</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radturkin&label=Profile%20views&color=0e75b6&style=flat" alt="radturkin" /> </p>
 
