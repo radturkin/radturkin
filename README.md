@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the strangerthingsapp with my nephew
+- 🔭 I’m currently working on a surf forecaster for lake michigan
 
 - 👯 I’m looking to collaborate on projects with a focus on the environment/climate solutions and/or assistive apps for people with ASD/ADHD
 
