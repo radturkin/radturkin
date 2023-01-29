@@ -1,14 +1,16 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a surf forecaster for lake michigan
+<h3 align="center">Just a Software Engineer trying to make a difference for tomorrow</h3>
 
-- 👯 I’m looking to collaborate on projects with a focus on the environment/climate solutions and/or assistive apps for people with ASD/ADHD
 
-- 🤔 I’m looking to land a remote position in software engineering, machine learning, or data science
+- 🤔 I’m currently looking for a remote position as a Software Engineer.
+
+
+- 👯 I’m always looking to collaborate on projects with a focus on the environment/climate solutions and/or assistive apps for people with ASD, ADHD, and/or (c)PTSD
+
 
 - ⚡ Fun fact: a Sperm Whale is the loudest animal on the planet, it can talk to other whales over 1000 miles away
 
-<h3 align="center">A Software Engineer trying to make a difference for tomorrow</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radturkin&label=Profile%20views&color=0e75b6&style=flat" alt="radturkin" /> </p>
 
