@@ -3,10 +3,10 @@
 <h3 align="center">Just a Software Engineer trying to make a difference for tomorrow</h3>
 
 
-- 🤔 I’m currently looking for a remote position as a Software Engineer.
+- 🤔 I was recently laid off and currently looking for new work in Data Science and/or Machine Learning.
 
 
-- 👯 I’m always looking to collaborate on projects with a focus on the environment/climate solutions and/or assistive apps for people with ASD, ADHD, and/or (c)PTSD
+- 👯 I’m always looking to collaborate on projects with a focus on the environment/climate solutions and/or assistive apps for people with neurodivergent and neurodivergent adjacent conditions (i.e. ASD, ADHD, (c)PTSD, and OCD)
 
 
 - ⚡ Fun fact: a Sperm Whale is the loudest animal on the planet, it can talk to other whales over 1000 miles away
