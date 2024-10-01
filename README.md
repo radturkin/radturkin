@@ -3,7 +3,7 @@
 <h3 align="center">Just a Machine Learning Engineer trying to make a difference for tomorrow</h3>
 
 
-- 🤔 I was recently laid off and currently looking for new work in Data Science and/or Machine Learning.
+- 🤔 I was recently impacted by company wide layoffs and currently looking for new work in Data Science and/or Machine Learning.
 
 
 - 👯 I’m always looking to collaborate on projects with a focus on the environment/climate solutions and/or assistive apps for people with neurodivergent and neurodivergent adjacent conditions (i.e. ASD, ADHD, (c)PTSD, and OCD)
@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radturkin&label=Profile%20views&color=0e75b6&style=flat" alt="radturkin" /> </p>
 
-<---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radturkin" alt="radturkin" /></a> </p> ---!>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radturkin" alt="radturkin" /></a> </p> --->
 
 
 <h3 align="left">Connect with me:</h3>
