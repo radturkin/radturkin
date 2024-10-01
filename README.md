@@ -14,10 +14,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radturkin&label=Profile%20views&color=0e75b6&style=flat" alt="radturkin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radturkin" alt="radturkin" /></a> </p>
+<---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radturkin" alt="radturkin" /></a> </p> ---!>
 
-<!-- <p align="left"> <a href="https://hachyderm.io/@rad" target="blank"><img src="https://hachyderm.io/@rad" alt="hacyderm@rad" /></a> </p>
- -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
