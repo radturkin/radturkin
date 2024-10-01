@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="center">Just a Software Engineer trying to make a difference for tomorrow</h3>
+<h3 align="center">Just a Machine Learning Engineer trying to make a difference for tomorrow</h3>
 
 
 - 🤔 I was recently laid off and currently looking for new work in Data Science and/or Machine Learning.
