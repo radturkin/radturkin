@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="center">Just a Machine Learning Engineer trying to make a difference for tomorrow</h3>
+<h3 align="center">Solutions oriented Machine Learning Engineer, harnessing data to create positive change</h3>
 
 
 - 🤔 I was recently impacted by company wide layoffs and currently looking for new work in Data Science and/or Machine Learning.
