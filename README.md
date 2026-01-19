@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="center">Solutions oriented Data Scientist and Machine Learning Engineer, harnessing data to create positive change</h3>
+<h3 align="center">Solutions oriented Data Scientist and ML Engineer harnessing data to create positive change</h3>
 
 
 Actively seeking new opportunities in Data Science, Machine Learning, Analytics, and Education.
