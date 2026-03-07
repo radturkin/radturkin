@@ -5,7 +5,7 @@
 
 Actively seeking new opportunities in Data Science, Machine Learning, Analytics, and Education.
 
-Experienced Data Scientist and Software Engineer with a Masters in Mathematics building meaningful projects that strengthen and support local and international communities; using the latest data tools, and Python libraries to help clients make data driven decisions, and create measurable solutions. Favorite and most commonly used tech include Python, Pandas, Numpy, SQL, PostgreSQL, Pytorch, Tensorflow / Keras, Git,  favorite Machine Learning models include Xgboost. Years of teaching experience give the ability to explain complex concepts and data simply to stakeholders, clients, and cross department teams to bring everyone up to speed and get all parties on the same page and moving towards actionable goals.
+Experienced Data Scientist and Software Engineer with a Masters in Mathematics and Education building meaningful projects that strengthen and support local and international communities; using the latest data tools, and Python libraries to help clients make data driven decisions, and create measurable solutions. Favorite and most commonly used tech include Python, Pandas, Numpy, SQL, PostgreSQL, Pytorch, Tensorflow / Keras, Git,  favorite Machine Learning models include Xgboost. Years of teaching experience give the ability to explain complex concepts and data simply to stakeholders, clients, and cross department teams to bring everyone up to speed and get all parties on the same page and moving towards actionable goals.
 Currently learning Kubernetes.
 Check out my github to see some of my work, and connect with me on linkedin. [https://www.linkedin.com/in/rad-turkin/](https://www.linkedin.com/in/rad-turkin/)
 
