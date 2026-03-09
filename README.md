@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome
 
 <h3>Solutions oriented Data Scientist and ML Engineer harnessing data to create positive change</h3>
 
